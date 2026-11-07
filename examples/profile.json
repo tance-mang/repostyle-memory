@@ -1,0 +1,8 @@
+{
+  "language": "zh-CN",
+  "tone": "professional-natural",
+  "avoid": ["夸大宣传", "无意义装饰", "未经验证的兼容性承诺"],
+  "preserve_manual_sections": true,
+  "protected_sections": [],
+  "readme_order": ["定位", "快速上手", "能力", "示例", "测试", "更新", "贡献", "许可证"]
+}
