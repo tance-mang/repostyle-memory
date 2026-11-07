@@ -1,8 +1,17 @@
 {
   "language": "zh-CN",
   "tone": "professional-natural",
-  "protected_sections": ["致谢"],
+  "protected_sections": [
+    "致谢"
+  ],
   "style_source": "https://github.com/tance-mang/chinese-webnovel-skills",
   "style_extracted_on": "2026-11-07",
-  "scope": "本仓库：双语品牌、简短定位、快速上手、能力表、真实测试与更新记录"
+  "scope": "本仓库：双语品牌、简短定位、快速上手、能力表、真实测试与更新记录",
+  "publishing": {
+    "auto_push": true,
+    "repository": "tance-mang/repostyle-memory",
+    "authorization": "User explicitly requested automatic push after each update on 2026-11-07",
+    "verify_remote": true,
+    "force_push": false
+  }
 }

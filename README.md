@@ -44,6 +44,8 @@ git clone https://github.com/tance-mang/repostyle-memory.git
 | 版本维护 | AI 根据实际变化组织 Unreleased，保留历史 |
 | GitHub 展示 | 命名、首屏定位、About 和相关 Topics；不保证获得 Star |
 
+App 项目还可采用 [暖小圈风格参考](references/app-style.md)：产品任务开头、模块能力表、系统架构、分层技术栈与部署说明。只迁移写法，所有功能和验证结论来自当前项目。
+
 **当前是可用的技能与辅助脚本初版，不是独立文档生成器或后台同步服务。** 文风一致性与跨 AI 行为仍需真实使用验证。
 
 ## 三种典型用法
